@@ -1,2 +1,2 @@
 # SCAMP-Assessment
-A PHP Assessement for the She Code Africa Cohort 2
+A PHP Assessment for the She Code Africa Cohort 2
